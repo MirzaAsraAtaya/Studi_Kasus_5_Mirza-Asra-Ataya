@@ -17,7 +17,7 @@ def hotel(jenis_kamar, durasi_menginap): #definisikan function hotel dengan para
 jenis_kamar = input("Masukkan jenis kamar (Standard/Deluxe): ")
 tanggal_checkin = input("Masukkan tanggal check-in (dd/mm/yyyy): ")
 tanggal_checkout = input("Masukkan tanggal check-out (dd/mm/yyyy): ")
-durasi_menginap = int(input("Masukkan lama menginap (dalam malam): "))
+durasi_menginap = int(input("Masukkan lama durasi menginap (dalam malam): "))
 
 total_harga = hotel(jenis_kamar, durasi_menginap) #memanggil function hotel dengan parameter jenis_kamar dan durasi_menginap
 
