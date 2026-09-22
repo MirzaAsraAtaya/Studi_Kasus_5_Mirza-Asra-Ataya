@@ -24,7 +24,8 @@ Kelas: B
 
 # Output Program
 
-<img width="377" height="191" alt="Screenshot 2026-09-22 185242" src="https://github.com/user-attachments/assets/f9b056cd-e711-4862-8c04-c3b1b489616d" />
+<img width="377" height="193" alt="Screenshot 2026-09-22 185425" src="https://github.com/user-attachments/assets/f1b3ef0f-9abf-4e5e-8901-2502b805bdde" />
+
 
 
 
