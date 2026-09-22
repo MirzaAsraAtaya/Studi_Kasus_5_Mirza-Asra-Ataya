@@ -10,7 +10,7 @@ Kelas: B
 
 1. `Function hotel()` (baris ke-3) digunakan untuk menghitung total biaya pemesanan kamar hotel. Function ini punya dua parameter, yaitu `jenis_kamar` dan `durasi_menginap`.
 
-2. Percabangan `if`, `elif`, dan `else` (baris ke-6 sampai 11) digunakan untuk menentukan harga kamar berdasarkan jenis kamar yang dipilih. Kamar Standard memiliki harga Rp200.000 per malam, sedangkan kamar Deluxe memiliki harga Rp350.000 per malam.
+2. Percabangan `if`, `elif`, dan `else` (baris ke-6 sampai 11) digunakan untuk menentukan harga kamar berdasarkan jenis kamar yang dipilih. Kamar Standard harganya Rp200.000 per malam, sedangkan kamar Deluxe harganya Rp350.000 per malam.
 
 4. Variabel `total_harga` (baris ke-13) digunakan untuk menghitung biaya keseluruhan dengan mengalikan harga kamar per malam dengan jumlah durasi menginap.
 
