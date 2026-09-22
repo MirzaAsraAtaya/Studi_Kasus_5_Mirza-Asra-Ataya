@@ -21,6 +21,7 @@ durasi_menginap = int(input("Masukkan lama menginap (dalam malam): "))
 
 total_harga = hotel(jenis_kamar, durasi_menginap) #memanggil function hotel dengan parameter jenis_kamar dan durasi_menginap
 
+#menampilkan output
 print("===================================")
 print("Detail Pemesanan Kamar Hotel")
 print("Jenis kamar:", jenis_kamar)
