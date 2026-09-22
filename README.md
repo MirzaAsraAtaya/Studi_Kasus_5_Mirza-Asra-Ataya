@@ -20,9 +20,12 @@ Kelas: B
 
 7. Pemanggilan function `total_harga = hotel(jenis_kamar, lama_menginap)` (baris ke-22) digunakan untuk memanggil dan menjalankan function `hotel()` berdasarkan jenis kamar dan durasi menginap yang telah dimasukkan pengguna.
 
-8. Fungsi baris `print()` (baris ke-24 sampai 30) digunakan untuk menampilkan detail pemesanan, yaitu jenis kamar, tanggal check-in, tanggal check-out, durasi menginap, dan total biaya yang harus dibayarkan.
+8. Fungsi baris `print()` (baris ke-25 sampai 31) digunakan untuk menampilkan detail pemesanan, yaitu jenis kamar, tanggal check-in, tanggal check-out, durasi menginap, dan total biaya yang harus dibayarkan.
 
 # Output Program
 
-<img width="537" height="196" alt="Screenshot 2026-09-22 171531" src="https://github.com/user-attachments/assets/8bff9524-c562-4406-9ab7-ef80b1985265" />
+<img width="377" height="191" alt="Screenshot 2026-09-22 185242" src="https://github.com/user-attachments/assets/f9b056cd-e711-4862-8c04-c3b1b489616d" />
+
+
+
 
